@@ -1,18 +1,18 @@
 {
     "response": [
         {
-            "device": "Redmi Note 13 Pro 5G",
+            "device": "Redmi Note 13 Pro 5G / Poco X6",
             "codename": "garnet",
-            "maintainer": "franlop77",
-            "datetime": 1748631495,
-            "filename": "HorizonDroid-v5.3-Earth-GAPPS-garnet-OFFICIAL-30052025.zip",
-            "md5": "4feccab95d8701e4602b5ff8ced098e7",
+            "maintainer": "Soni_Hikari",
+            "datetime": 1750778096,
+            "filename": "HorizonDroid-v5.4-Hyperion-GAPPS-garnet-OFFICIAL-24062025.zip",
+            "md5": "b60eb03b33280eefd7da85b0867293ad",
             "buildtype": "OFFICIAL",
-            "size": 2436214670,
-            "download": "https://sourceforge.net/projects/horizondroid/",
-            "version": "v5.3",
-            "support": "",
-            "changelogs": ""
+            "size": 2406609225,
+            "download": "https://sourceforge.net/projects/horizondroid/files/garnet/HorizonDroid-v5.4-Hyperion-GAPPS-garnet-OFFICIAL-24062025.zip/download",
+            "version": "v5.4",
+            "support": "https://t.me/JR205",
+            "changelogs": "https://github.com/HorizonV2/horizon_changelogs"
         }
     ]
 }
